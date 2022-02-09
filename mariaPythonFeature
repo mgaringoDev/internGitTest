@@ -1,0 +1,5 @@
+print('Maria')
+<<<<<<< Updated upstream
+=======
+print ('This is another feature')
+>>>>>>> Stashed changes
